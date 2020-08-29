@@ -9,3 +9,10 @@
 import Foundation
 
 
+struct Company: Codable {
+    let companyName: String
+    let symbol: String
+    let latestPrice: Double
+    let change: Double
+}
+
