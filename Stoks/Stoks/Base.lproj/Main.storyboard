@@ -25,40 +25,40 @@
                                 <nil key="highlightedColor"/>
                             </label>
                             <label opaque="NO" userInteractionEnabled="NO" contentMode="left" horizontalHuggingPriority="251" verticalHuggingPriority="251" text="-" textAlignment="natural" lineBreakMode="tailTruncation" baselineAdjustment="alignBaselines" adjustsFontSizeToFit="NO" translatesAutoresizingMaskIntoConstraints="NO" id="w6D-Jj-HbG">
-                                <rect key="frame" x="203" y="284.5" width="8" height="21"/>
+                                <rect key="frame" x="203" y="264.5" width="8" height="21"/>
                                 <fontDescription key="fontDescription" type="system" weight="heavy" pointSize="17"/>
-                                <color key="textColor" white="1" alpha="1" colorSpace="custom" customColorSpace="genericGamma22GrayColorSpace"/>
+                                <color key="textColor" systemColor="systemYellowColor" red="1" green="0.80000000000000004" blue="0.0" alpha="1" colorSpace="custom" customColorSpace="sRGB"/>
                                 <nil key="highlightedColor"/>
                             </label>
                             <pickerView contentMode="scaleToFill" translatesAutoresizingMaskIntoConstraints="NO" id="Nge-yr-269">
                                 <rect key="frame" x="0.0" y="593" width="414" height="269"/>
                             </pickerView>
                             <label opaque="NO" userInteractionEnabled="NO" contentMode="left" horizontalHuggingPriority="251" verticalHuggingPriority="251" text="Symbol" lineBreakMode="tailTruncation" baselineAdjustment="alignBaselines" adjustsFontSizeToFit="NO" translatesAutoresizingMaskIntoConstraints="NO" id="CD7-7W-QnQ">
-                                <rect key="frame" x="40" y="345.5" width="58" height="21"/>
+                                <rect key="frame" x="40" y="325.5" width="58" height="21"/>
                                 <fontDescription key="fontDescription" type="system" pointSize="17"/>
                                 <color key="textColor" white="1" alpha="1" colorSpace="custom" customColorSpace="genericGamma22GrayColorSpace"/>
                                 <nil key="highlightedColor"/>
                             </label>
                             <label opaque="NO" userInteractionEnabled="NO" contentMode="left" horizontalHuggingPriority="251" verticalHuggingPriority="251" text="Price" lineBreakMode="tailTruncation" baselineAdjustment="alignBaselines" adjustsFontSizeToFit="NO" translatesAutoresizingMaskIntoConstraints="NO" id="Uvq-fc-ONk">
-                                <rect key="frame" x="40" y="406.5" width="39" height="21"/>
+                                <rect key="frame" x="40" y="386.5" width="39" height="21"/>
                                 <fontDescription key="fontDescription" type="system" pointSize="17"/>
                                 <color key="textColor" white="1" alpha="1" colorSpace="custom" customColorSpace="genericGamma22GrayColorSpace"/>
                                 <nil key="highlightedColor"/>
                             </label>
                             <label opaque="NO" userInteractionEnabled="NO" contentMode="left" horizontalHuggingPriority="251" verticalHuggingPriority="251" text="Price Change" lineBreakMode="tailTruncation" baselineAdjustment="alignBaselines" adjustsFontSizeToFit="NO" translatesAutoresizingMaskIntoConstraints="NO" id="Jfs-0l-2ZA">
-                                <rect key="frame" x="40" y="467.5" width="103" height="21"/>
+                                <rect key="frame" x="40" y="447.5" width="103" height="21"/>
                                 <fontDescription key="fontDescription" type="system" pointSize="17"/>
                                 <color key="textColor" white="1" alpha="1" colorSpace="custom" customColorSpace="genericGamma22GrayColorSpace"/>
                                 <nil key="highlightedColor"/>
                             </label>
                             <label opaque="NO" userInteractionEnabled="NO" contentMode="left" horizontalHuggingPriority="251" verticalHuggingPriority="251" text="-" textAlignment="natural" lineBreakMode="tailTruncation" baselineAdjustment="alignBaselines" adjustsFontSizeToFit="NO" translatesAutoresizingMaskIntoConstraints="NO" id="ZXq-M6-kX0">
-                                <rect key="frame" x="366" y="406.5" width="8" height="21"/>
+                                <rect key="frame" x="366" y="386.5" width="8" height="21"/>
                                 <fontDescription key="fontDescription" type="system" pointSize="17"/>
                                 <color key="textColor" white="1" alpha="1" colorSpace="custom" customColorSpace="genericGamma22GrayColorSpace"/>
                                 <nil key="highlightedColor"/>
                             </label>
                             <label opaque="NO" userInteractionEnabled="NO" contentMode="left" horizontalHuggingPriority="251" verticalHuggingPriority="251" text="-" textAlignment="natural" lineBreakMode="tailTruncation" baselineAdjustment="alignBaselines" adjustsFontSizeToFit="NO" translatesAutoresizingMaskIntoConstraints="NO" id="82g-Aw-t6g">
-                                <rect key="frame" x="366" y="467.5" width="8" height="21"/>
+                                <rect key="frame" x="366" y="447.5" width="8" height="21"/>
                                 <fontDescription key="fontDescription" type="system" pointSize="17"/>
                                 <color key="textColor" white="1" alpha="1" colorSpace="custom" customColorSpace="genericGamma22GrayColorSpace"/>
                                 <nil key="highlightedColor"/>
@@ -74,7 +74,7 @@
                                 <color key="tintColor" red="0.0" green="0.47843137250000001" blue="1" alpha="1" colorSpace="custom" customColorSpace="sRGB"/>
                             </activityIndicatorView>
                             <label opaque="NO" userInteractionEnabled="NO" contentMode="left" horizontalHuggingPriority="251" verticalHuggingPriority="251" text="-" textAlignment="natural" lineBreakMode="tailTruncation" baselineAdjustment="alignBaselines" adjustsFontSizeToFit="NO" translatesAutoresizingMaskIntoConstraints="NO" id="rEm-r4-Ju6">
-                                <rect key="frame" x="366" y="345.5" width="8" height="21"/>
+                                <rect key="frame" x="366" y="325.5" width="8" height="21"/>
                                 <fontDescription key="fontDescription" type="system" pointSize="17"/>
                                 <color key="textColor" white="1" alpha="1" colorSpace="custom" customColorSpace="genericGamma22GrayColorSpace"/>
                                 <nil key="highlightedColor"/>
@@ -102,7 +102,7 @@
                             <constraint firstItem="6Tk-OE-BBY" firstAttribute="trailing" secondItem="82g-Aw-t6g" secondAttribute="trailing" constant="40" id="ZdL-7h-3EX"/>
                             <constraint firstItem="Nge-yr-269" firstAttribute="height" secondItem="8bC-Xf-vdC" secondAttribute="height" multiplier="0.3" id="Znr-WL-xDZ"/>
                             <constraint firstItem="IBf-OE-asl" firstAttribute="top" secondItem="8bC-Xf-vdC" secondAttribute="top" id="bSe-Wd-Lf9"/>
-                            <constraint firstItem="w6D-Jj-HbG" firstAttribute="top" secondItem="0hP-OG-m71" secondAttribute="bottom" constant="40" id="cNz-wF-tte"/>
+                            <constraint firstItem="w6D-Jj-HbG" firstAttribute="top" secondItem="0hP-OG-m71" secondAttribute="bottom" constant="20" id="cNz-wF-tte"/>
                             <constraint firstItem="Nge-yr-269" firstAttribute="bottom" secondItem="6Tk-OE-BBY" secondAttribute="bottom" id="d2r-hD-dWj"/>
                             <constraint firstItem="Jfs-0l-2ZA" firstAttribute="leading" secondItem="6Tk-OE-BBY" secondAttribute="leading" constant="40" id="hyg-2g-79w"/>
                             <constraint firstItem="CD7-7W-QnQ" firstAttribute="top" secondItem="w6D-Jj-HbG" secondAttribute="bottom" constant="40" id="itO-LX-BnQ"/>
@@ -131,6 +131,6 @@
         </scene>
     </scenes>
     <resources>
-        <image name="background" width="605" height="1085"/>
+        <image name="background" width="602.5" height="1085"/>
     </resources>
 </document>
